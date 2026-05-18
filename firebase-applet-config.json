@@ -1,0 +1,9 @@
+{
+  "apiKey": "REPLACE_WITH_YOUR_API_KEY",
+  "authDomain": "manekelsa.firebaseapp.com",
+  "databaseURL": "https://manekelsa-default-rtdb.firebaseio.com",
+  "projectId": "manekelsa",
+  "storageBucket": "manekelsa.appspot.com",
+  "messagingSenderId": "000000000000",
+  "appId": "1:000000000000:web:0000000000000000000000"
+}

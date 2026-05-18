@@ -1,0 +1,6 @@
+{
+  "project": "manekelsa-default",
+  "database": {
+    "instance": "manekelsa-default-rtdb"
+  }
+}

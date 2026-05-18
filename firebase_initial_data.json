@@ -1,0 +1,22 @@
+{
+  "workers": {
+    "worker1": {
+      "name": "ಸಿದ್ದಪ್ಪ (Siddappa)",
+      "skill": "ತೋಟಗಾರಿಕೆ (Gardening)",
+      "rate": "500",
+      "available": true,
+      "phone": "9876543210",
+      "area": "Gandhinagar",
+      "ratings": 12
+    },
+    "worker2": {
+      "name": "ಲಕ್ಷ್ಮಿ (Lakshmi)",
+      "skill": "ಮನೆ ಕೆಲಸ (Cleaning)",
+      "rate": "300",
+      "available": false,
+      "phone": "9123456789",
+      "area": "Vidyagiri",
+      "ratings": 45
+    }
+  }
+}
